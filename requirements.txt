@@ -1,0 +1,4 @@
+trafilatura
+tqdm
+requests
+beautifulsoup4
